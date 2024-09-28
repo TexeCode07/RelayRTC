@@ -1,2 +1,2 @@
-Relay ON and OFF depending ON RTC Time
+Relay ON and OFF depending ON RTC DS1307 Time
 -wingtrix
